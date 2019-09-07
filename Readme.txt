@@ -7,3 +7,5 @@ git add .
 git commit -m "커밋내용"
 
 git push
+
+오늘은 파이참을 설치하고 파이참으로 실습함.7
